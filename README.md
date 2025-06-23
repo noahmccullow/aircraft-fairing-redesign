@@ -1,18 +1,19 @@
 # aircraft-fairing-redesign
 
-🎯 Objective:
+Objective:
 Redesign a lightweight, modular fairing for an aircraft flap track using Fusion 360.
 
-🔧 Tools Used:
+Tools Used:
 - Fusion 360 (CAD modelling and simulation)
+- FEA Simulation (basic load testing)
 - Google Docs (design log + report)
 
-📂 Project Files:
+Project Files:
 - CAD exports (.stl)
 - PDF design report
 - Images of iterations and final concept
 
-📈 Key Learnings:
+Key Learnings:
 - Stress-focused design changes
 - Material comparison (Aluminium vs composite)
 - CAD workflow documentation
